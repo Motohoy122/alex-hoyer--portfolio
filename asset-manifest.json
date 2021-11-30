@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/alex-hoyer--portfolio/static/css/main.81e67677.chunk.css",
+    "main.js": "/alex-hoyer--portfolio/static/js/main.c192ea87.chunk.js",
+    "main.js.map": "/alex-hoyer--portfolio/static/js/main.c192ea87.chunk.js.map",
+    "runtime-main.js": "/alex-hoyer--portfolio/static/js/runtime-main.26688bba.js",
+    "runtime-main.js.map": "/alex-hoyer--portfolio/static/js/runtime-main.26688bba.js.map",
+    "static/js/2.78e8ae1c.chunk.js": "/alex-hoyer--portfolio/static/js/2.78e8ae1c.chunk.js",
+    "static/js/2.78e8ae1c.chunk.js.map": "/alex-hoyer--portfolio/static/js/2.78e8ae1c.chunk.js.map",
+    "index.html": "/alex-hoyer--portfolio/index.html",
+    "static/css/main.81e67677.chunk.css.map": "/alex-hoyer--portfolio/static/css/main.81e67677.chunk.css.map",
+    "static/js/2.78e8ae1c.chunk.js.LICENSE.txt": "/alex-hoyer--portfolio/static/js/2.78e8ae1c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.26688bba.js",
+    "static/js/2.78e8ae1c.chunk.js",
+    "static/css/main.81e67677.chunk.css",
+    "static/js/main.c192ea87.chunk.js"
+  ]
+}
