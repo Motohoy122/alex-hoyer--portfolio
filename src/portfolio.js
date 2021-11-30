@@ -9,7 +9,7 @@ const about = {
   name: 'Alex Hoyer',
   role: 'Front End Engineer',
   description:
-    'Adipisicing sit fugit ullam unde aliquid sequi Facilis soluta facilis perspiciatis corporis nulla aspernatur. Autem eligendi rerum delectus modi quisquam? Illo ut quasi nemo ipsa cumque perspiciatis! Maiores minima consectetur.',
+    'Creative React developer with three years of experience delivering web applications to clients. Skilled at connecting creative UI frameworks to functional assets that deliver a smooth experience to the user. Created a subcontractor scheduling application to allocate resources, crews and tasks, which resulted in the company\'s field efficiency improving by 8%.',
   resume: 'https://example.com',
   social: {
     linkedin: 'https://www.linkedin.com/in/alex-hoyer-479255158/',

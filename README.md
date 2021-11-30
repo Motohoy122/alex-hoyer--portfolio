@@ -66,6 +66,3 @@ yarn deploy
 ## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
-# alex-hoyer--portfolio
-# alex-hoyer--portfolio
-# alex-hoyer--portfolio

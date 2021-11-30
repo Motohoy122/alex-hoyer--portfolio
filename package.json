@@ -2,14 +2,13 @@
   "name": "cleanfolio",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/Motohoy122/alex-hoyer--portfolio",
+  "homepage": "https://motohoy122.github.io/alex-hoyer--portfolio/",
   "dependencies": {
     "@material-ui/core": "^4.12.3",
     "@material-ui/icons": "^4.11.2",
     "@testing-library/jest-dom": "^5.14.1",
     "@testing-library/react": "^12.0.0",
     "@testing-library/user-event": "^13.2.1",
-    "gh-pages": "^3.2.3",
     "prop-types": "^15.7.2",
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
@@ -24,6 +23,7 @@
     "eject": "react-scripts eject",
     "lint": "eslint .",
     "format": "prettier --write \"**/*.+(js|jsx|json|css|md)\"",
+    "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
   },
   "browserslist": {
@@ -47,6 +47,7 @@
     "eslint-plugin-prettier": "^4.0.0",
     "eslint-plugin-react": "^7.25.1",
     "eslint-plugin-react-hooks": "^4.2.0",
+    "gh-pages": "^3.2.3",
     "prettier": "^2.3.2"
   }
 }
