@@ -5,7 +5,14 @@ import './ProjectContainer.css'
 
 const ProjectContainer = ({ project }) => (
   <div className='project'>
-    <h3>{project.name}</h3>
+    <a
+      href={project.livePreview}
+      target='_blank'
+      rel="noreferrer"
+    >
+      <h3>{project.name}</h3>
+    </a>
+    
     <div>
       <p className='project__description'>{project.description}</p>
       {project.stack && (

@@ -21,6 +21,14 @@ const projects = [
   // projects can be added an removed
   // if there are no projects, Projects section won't show up
   {
+    name: 'Dev Connect',
+    description:
+      'Dev Connect is an online social media site specifically for developers. Developers have the opportunity to share their work, link their github repositories through the github API, highlight their education and professional accomplishments. This application was built with the MERN stack and is hosted on heroku. MongoDB atlas stores all of the applications data, Express and Node.js create the server functionality and React was used for the frontend. Key components include user authentication, private routing after logging in and a fully functional api.',
+    stack: ['MongoDB', 'ExpressJs', 'React', 'Redux', 'Node.js', 'heroku'],
+    sourceCode: 'https://github.com/Motohoy122/dev-connect',
+    livePreview: 'https://floating-shelf-33514.herokuapp.com/',
+  },
+  {
     name: 'Disney+ Clone',
     description:
       'A clone of the disney plus web application. The app utilizes the power of firebase to allow users to make an account through google authentication and host the application. Within Firebase, the Firestore manages the data for each movie within the movies database.  Redux was implemented to control the state of the user’s logged in status and the state of the movie information within the database. The styled-components library was downloaded from npm to style components and make them mobile responsive within the .js component files.',
@@ -44,6 +52,14 @@ const projects = [
     sourceCode: 'https://github.com/Motohoy122/robofriends',
     livePreview: 'https://motohoy122.github.io/robofriends/',
   },
+  {
+    name: 'Merchant Candy',
+    description:
+      'This is a mockup of Merchant Candy\'s checkout process. The frontend was built using react and material UI. It wasn\'t intended to have full checkout functionality, it was built strictly for the aesthetic look. The app is utilizing React hooks, such as useState and useEffect to manage the state and change the visual components throughout the checkout process.',
+    stack: ['React', 'Material UI'],
+    sourceCode: 'https://github.com/Motohoy122/robofriends',
+    livePreview: 'https://motohoy122.github.io/robofriends/',
+  }
 ]
 
 const skills = [
@@ -54,6 +70,9 @@ const skills = [
   'JavaScript',
   'React',
   'Redux',
+  'MongoDB',
+  'ExpressJs',
+  'Node.js',
   'Firebase',
   'SASS',
   'Material UI',
