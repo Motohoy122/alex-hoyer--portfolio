@@ -7,7 +7,7 @@ const header = {
 const about = {
   // all the properties are optional - can be left empty or deleted
   name: 'Alex Hoyer',
-  role: 'Front End Engineer',
+  role: 'Front-End Developer',
   description:
     'Creative React developer with three years of experience delivering web applications to clients. Skilled at connecting creative UI frameworks to functional assets that deliver a smooth experience to the user. Created a subcontractor scheduling application to allocate resources, crews and tasks, which resulted in the company\'s field efficiency improving by 8%.',
   resume: 'https://drive.google.com/file/d/144hvx1jBuHunjCe9FbgTFlcMAKY0TQKs/view?usp=sharing',
